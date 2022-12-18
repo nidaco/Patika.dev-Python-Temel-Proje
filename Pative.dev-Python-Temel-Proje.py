@@ -37,3 +37,4 @@ List comprehension, bir liste oluşturmak için kullanılan bir yapıdır ve gen
 34. satırda, reversed fonksiyonu ile lst listesi tersine çevrilir ve daha sonra bu tersine çevrilmiş liste üzerinde bir for döngüsü geçirilir. 
 Bu döngü, her bir eleman için reverse_list fonksiyonunu çağırır ve bu fonksiyonun döndürdüğü değerleri bir liste oluşturur. 
 Bu liste comprehension yapısının sonucu olarak geri döndürülür.
+"""
